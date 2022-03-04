@@ -1,6 +1,6 @@
 from Metodos import string_work
 from Metodos import num_to_str
-
+# ERR5 -3 El 4to test no verifica que el string sea el correcto
 
 # ############## PRUEBAS DE FUNCION string_work #####################
 
